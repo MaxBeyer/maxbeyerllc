@@ -1,8 +1,6 @@
-## Welcome to GitHub Pages
+## Creative Works from Max Beyer LLC
 
-You can use the [editor on GitHub](https://github.com/ZeusAndHisBeard/maxbeyerllc/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Max Beyer LLC is a new business run by, you guessed it, Max Beyer.  He hopes to use this LLC to bring you creative works of any kind that may interest you.
 
 ### Markdown
 
